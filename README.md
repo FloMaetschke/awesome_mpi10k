@@ -35,3 +35,7 @@ Awesome List for MPI 10K  MPPSolar Hybrid Inverter
   MPPSolar / Voltronic / Infinisolar hybrid inverter integration to Homeassistant via MQTT (Protocol version 17 only !)
 - [solar-sis](https://github.com/opengd/solar-sis)
   Universal inverter protocol handler specially for solar electricity systems using nodejs
+  
+## Useful Links
+- [Inverter Repairs and Hardware Modifications](https://forums.aeva.asn.au/viewtopic.php?f=64&t=6007)
+
