@@ -28,3 +28,10 @@ Awesome List for MPI 10K  MPPSolar Hybrid Inverter
 ## Certificates
 - [Einheitenzertifikat VDE0124](Einheitenzertifikat%20VDE0124-MPI-10K-2020.pdf)
 - [CE Declaration of Conformity](Zertifikat%20-%20CE%20Certificate%20MPI%20Serie%20komplett.pdf)
+
+
+## Interesting Projects
+- [mppsolar2mqtt](https://github.com/rabsol/mppsolar2mqtt)
+  MPPSolar / Voltronic / Infinisolar hybrid inverter integration to Homeassistant via MQTT (Protocol version 17 only !)
+- [solar-sis](https://github.com/opengd/solar-sis)
+  Universal inverter protocol handler specially for solar electricity systems using nodejs
