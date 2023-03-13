@@ -22,3 +22,5 @@ Awesome List for MPI 10K  MPPSolar Hybrid Inverter
 - AS4777 certified (5.5K, 10K only)
 - Optional accessories available (Modbus card, Modbus server, and Energy Meter)
 - Bundled monitoring software supports Windows, Mac, and Linux32/64
+
+[More Info](/MPI%20HYBRID.pdf)
