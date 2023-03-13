@@ -24,3 +24,7 @@ Awesome List for MPI 10K  MPPSolar Hybrid Inverter
 - Bundled monitoring software supports Windows, Mac, and Linux32/64
 
 [More Info](/MPI%20HYBRID.pdf)
+
+## Certificates
+- [Einheitenzertifikat VDE0124](Einheitenzertifikat%20VDE0124-MPI-10K-2020.pdf)
+- [CE Declaration of Conformity](Zertifikat%20-%20CE%20Certificate%20MPI%20Serie%20komplett.pdf)
