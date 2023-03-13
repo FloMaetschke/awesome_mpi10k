@@ -39,3 +39,9 @@ Awesome List for MPI 10K  MPPSolar Hybrid Inverter
 ## Useful Links
 - [Inverter Repairs and Hardware Modifications](https://forums.aeva.asn.au/viewtopic.php?f=64&t=6007)
 
+
+## Other Useful Stuff
+- [ESPHOME Victron SmartShunt](https://github.com/KinDR007/VictronSmartShunt-ESPHOME)
+
+
+Please feel free to contribute!
